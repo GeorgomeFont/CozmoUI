@@ -49,7 +49,7 @@ Please download [CozyUI+](https://github.com/Fogg05/CozyUI-Plus) first and load 
 
 - IBM: providing the [Plex Sans font](https://github.com/IBM/plex)
 
-- MaokenFont: providing the [Frex Sans font](https://github.com/maoken-fonts/frex-sans)
+- MaokenFonts: providing the [Frex Sans font](https://github.com/maoken-fonts/frex-sans)
 
 - Microsoft: providing the [Fluent Emoji](https://github.com/microsoft/fluentui-emoji)
 

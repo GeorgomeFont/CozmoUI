@@ -52,6 +52,9 @@ CozyUI+的非官方拓展资源包。
 
 - 微软：提供 [Fluent Emoji](https://github.com/microsoft/fluentui-emoji) 颜文字素材
 
+## ⬇️ 下载 ⬇️ ##
+在 [Release](https://github.com/GeorgomeFont/CozmoUI/releases) 处下载 .zip 格式文件。  
+
 ## 📜 许可证 📜 ##
 采用
 ```GNU GENERAL PUBLIC LICENSE Version 3```方式授权。  

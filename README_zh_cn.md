@@ -9,7 +9,7 @@ CozyUI+的非官方拓展资源包。
 > 本资源包目前仅支持 Minecraft 1.20.1版本。
 ## 🖊️  资源包描述 🖊️ ##
 本资源包为 CozyUI+ 添加了更多模组的覆盖，如暮色森林、天境、车万女仆等模组。  
-请先下载 [CozyUI+](https://modrinth.com/resourcepack/cozyui-plus) 资源包，然后将此资源包加载在 CozyUI+ 之上以正常显示。  
+请先下载 [CozyUI+](https://github.com/Fogg05/CozyUI-Plus) 资源包，然后将此资源包加载在 CozyUI+ 之上以正常显示。  
 ![](./pictures/order.png)  
 > 按图中方式加载资源包。
 
@@ -40,9 +40,9 @@ CozyUI+的非官方拓展资源包。
 
 
 ## 😎 鸣谢 😎 ##
-- 零雾05：[CozyUI+](https://modrinth.com/resourcepack/cozyui-plus) 原作者，RIP 2025
+- 零雾05：[CozyUI+](https://github.com/Fogg05/CozyUI-Plus) 原作者，RIP 2025
 
-- WhatDamon：[CozyUI Ex](https://modrinth.com/resourcepack/cozyui-ex) 作者
+- WhatDamon：[CozyUI Ex](https://github.com/WhatDamon/cozyui-ex) 作者
 
 - 酒石酸菌：[车万女仆](https://www.curseforge.com/minecraft/mc-mods/touhou-little-maid) 模组作者
 

@@ -14,7 +14,7 @@ Please download [CozyUI+](https://modrinth.com/resourcepack/cozyui-plus) first a
 > Load the resource packs like this.
 
 ## ⭐ COVERED MODS ⭐ ##
-| Mod Name 模组名称             | Mod Version 模组版本               | Home Page Link 模组链接              | Pack Version 包版本           |
+| Mod Name           | Mod Version             | Home Page Link            | Pack Version          |
 |:---------------------:|:---------------------:|:---------------------:|:---------------------:|
 | Alex's Mobs              | 1.22.9               | [🔗CurseForge](https://www.curseforge.com/minecraft/mc-mods/alexs-mobs)             | v0.1           |
 | Maid Addition           | 1.1.4-beta              | [🔗CurseForge](https://www.curseforge.com/minecraft/mc-mods/maidaddition)              | v0.1           |

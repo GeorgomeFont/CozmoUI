@@ -10,7 +10,7 @@ An unofficial extended resource pack for CozyUI+.
 > This pack currently only supports Minecraft 1.20.1.  
 ## 🖊️  PACK DESCRIPTION 🖊️ ##
 This resource pack covers CozyUI+ into more mods, such as The Twilight Forest, The Aether, Touhou Little Maid and so on.  
-Please download [CozyUI+](https://modrinth.com/resourcepack/cozyui-plus) first and load this pack above CozyUI+ to work correctly.  
+Please download [CozyUI+](https://github.com/Fogg05/CozyUI-Plus) first and load this pack above CozyUI+ to work correctly.  
 ![](./pictures/order.png)  
 > Load the resource packs like this.
 
@@ -41,9 +41,9 @@ Please download [CozyUI+](https://modrinth.com/resourcepack/cozyui-plus) first a
 
 
 ## 😎 SPECIAL THANKS 😎 ##
-- Fogg05: the original creator of [CozyUI+](https://modrinth.com/resourcepack/cozyui-plus), RIP 2025
+- Fogg05: the original creator of [CozyUI+](https://github.com/Fogg05/CozyUI-Plus), RIP 2025
 
-- WhatDamon: the creator of [CozyUI Ex](https://modrinth.com/resourcepack/cozyui-ex)
+- WhatDamon: the creator of [CozyUI Ex](https://github.com/WhatDamon/cozyui-ex)
 
 - TartaricAcid: the creator of [Touhou Little Maid](https://www.curseforge.com/minecraft/mc-mods/touhou-little-maid)
 
@@ -52,6 +52,9 @@ Please download [CozyUI+](https://modrinth.com/resourcepack/cozyui-plus) first a
 - MaokenFont: providing the [Frex Sans font](https://github.com/maoken-fonts/frex-sans)
 
 - Microsoft: providing the [Fluent Emoji](https://github.com/microsoft/fluentui-emoji)
+
+## ⬇️ DOWNLOAD ⬇️ ##
+Download .zip file in [Releases](https://github.com/GeorgomeFont/CozmoUI/releases).  
 
 ## 📜 LICENSE 📜 ##
 Licensed under 

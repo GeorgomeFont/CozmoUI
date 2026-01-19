@@ -1,3 +1,4 @@
+English | [简体中文](./README_zh_cn.md)
 # CozmoUI
 An unofficial extended resource pack for CozyUI+.  
 ![](./pictures/banner_en.png)
